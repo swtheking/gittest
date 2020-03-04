@@ -5,5 +5,6 @@ public class Main {
         System.out.println("asdsd");
         System.out.println("坤坤");
         System.out.println("傻逼");
+        System.out.println("谁是坤坤");
     }
 }
