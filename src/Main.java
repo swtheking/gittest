@@ -6,6 +6,7 @@ public class Main {
         System.out.println("坤坤");
         System.out.println("傻逼");
         System.out.println("谁是坤坤");
+        System.out.println("测试");
         System.out.println("Who is yo daddy");
     }
 }
