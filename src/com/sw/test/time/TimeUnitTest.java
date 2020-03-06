@@ -35,6 +35,7 @@ public class TimeUnitTest {
         System.out.println(TimeUnit.HOURS.convert(3, TimeUnit.DAYS));
         //结果是：72
 
+        System.out.println(TimeUnit.HOURS.toMillis(12L));
         try {
             // 睡眠方式
             TimeUnit.SECONDS.sleep( 5 ); // ==  Thread.sleep( 5 * 1000 );
